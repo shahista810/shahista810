@@ -52,13 +52,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 
   <!-- ASP.NET Core -->
-  <img src="https://cdn.worldvectorlogo.com/logos/asp-net-core-1.svg" alt="aspnetcore" width="40" height="40"/>
+  <img src="asp.net core.jpg" alt="aspnetcore" width="40" height="40"/>
 
   <!-- .NET -->
   <img src=".netms.jpg" alt=".NET" width="40" height="40"/>
 
   <!-- Entity Framework -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Entity_Framework_Logo.svg/512px-Entity_Framework_Logo.svg.png" alt="entity-framework" width="40" height="40"/>
+  <img src="entity framework.png" alt="entity-framework" width="40" height="40"/>
 
   <!-- SQL Server -->
   <img src="sql.png" alt="SQL Server" width="40" height="40"/>
